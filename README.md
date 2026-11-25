@@ -1,9 +1,9 @@
 
 ![NeoMinds Tech Hub AI & Engineering](./banner.png)
 
-# NeoMinds Tech Hub — Open Source
+# NeoMinds Tech Hub
 
-This is where NeoMinds Tech Hub builds in the open.
+This is where NeoMinds Tech Hub builds.
 
 We build AI-native software, intelligent agents, automation
 workflows, and enterprise technology solutions designed to
