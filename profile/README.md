@@ -24,7 +24,7 @@ help us build what's next.
 - n8n Workflows and Intelligent Automation
 - Enterprise AI Solutions
 - LLM Applications and RAG Systems
-- AI-Powered Lead Generation
+- Web and Mobile Applications
 - Business Intelligence and Analytics
 - Full-Stack Software Solutions
 - API Integrations and Developer Tools
