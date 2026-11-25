@@ -1,6 +1,4 @@
 
-![NeoMinds Tech Hub AI & Engineering](./banner.png)
-
 # NeoMinds Tech Hub
 
 This is where NeoMinds Tech Hub builds.
